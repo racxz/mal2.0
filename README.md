@@ -76,8 +76,8 @@ New-VM -Name "MalwareAnalysisVM" -MemoryStartupBytes 4GB -Generation 2
 Clone this repository and open in Visual Studio:
 
 ```bash
-git clone https://github.com/yourusername/malware-analysis-project.git
-cd malware-analysis-project
+git clone https://github.com/racxz/mal2.0.git
+cd mal2.0
 ```
 
 Review the key components:
